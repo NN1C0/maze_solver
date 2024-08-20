@@ -11,4 +11,4 @@ The maze generate random on every launch with the help of a deppth-first approac
 
 ## Demo
 
-![](https://github.com/NN1C0/maze_solver/dmeo/MazeSolverDemo.gif)
+![](https://github.com/NN1C0/maze_solver/blob/master/demo/MazeSolverDemo.gif)
